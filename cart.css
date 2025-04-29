@@ -106,7 +106,7 @@ button a:focus
         display: grid;
         grid-template-columns: 1fr;
     }    
-    #boxContainer
+    #box
     {
         padding: 20px;
         width: 80%;
