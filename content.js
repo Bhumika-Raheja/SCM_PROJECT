@@ -1,5 +1,6 @@
 // console.clear();
-
+//new content
+//javascript
 let contentTitle;
 
 console.log(document.cookie);
