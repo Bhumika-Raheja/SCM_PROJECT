@@ -1,4 +1,4 @@
-//orderPlaced
+
 document.cookie = "orderId="+0 +",counter="+0
 
 let httpRequest = new XMLHttpRequest(),
